@@ -1,0 +1,40 @@
+.header-container {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 95%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.logo {
+  margin-left: 20px;
+  width: 82px;
+  height: 40px;
+  cursor: pointer;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+}
+.add-item {
+  height: 40px;
+  border-radius: 4px;
+  color: #ffffff;
+  border: none;
+  padding: 8px 20px;
+  background: #2dca73;
+  cursor: pointer;
+  margin-right: 25px;
+}
+.user {
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+  background: #d7dfe9;
+}

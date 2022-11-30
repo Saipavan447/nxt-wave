@@ -1,0 +1,27 @@
+.input-container {
+  height: 40px;
+  width: 648px;
+  border-radius: 3px;
+  margin-left: 70px;
+  margin-top: 15px;
+  background: #ffffff;
+  border: 1px solid #d7dfe9;
+  display: flex;
+  align-items: center;
+}
+.search-icon {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.search-input {
+  height: 37px;
+  width: 610px;
+  border: none;
+  font-size: 18px;
+}
+.horizontal-line {
+  height: 1px;
+  background: #d7dfe9;
+  margin: 0px;
+  width: 100%;
+}

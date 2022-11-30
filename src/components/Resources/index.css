@@ -1,0 +1,16 @@
+.data-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.no-users-heading {
+  text-align: center;
+}
+.failure-users-list {
+  text-align: center;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}

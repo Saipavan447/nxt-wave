@@ -1,0 +1,64 @@
+.request-images {
+  height: 44px;
+  width: 44px;
+  border-radius: 4px;
+  background: #ffffff;
+  border: 2px solid #d7dfe9;
+  border-radius: 4px;
+}
+.request-top-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.request-title {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0px;
+  padding-left: 10px;
+}
+.request-category {
+  margin: 0px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #7e858e;
+  padding-left: 10px;
+}
+.request-bottom-container {
+  padding-top: 25px;
+}
+.request-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #0b69ff;
+  text-decoration: none;
+}
+.request-description {
+  margin: 0px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #7e858e;
+}
+.request-card-container-block {
+  display: block;
+  height: 192px;
+  width: 360px;
+  background: #ffffff;
+  border: 1px solid #d7dfe9;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+}
+.request-card-container-none {
+  display: none;
+}

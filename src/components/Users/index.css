@@ -1,0 +1,11 @@
+.resources-item {
+  height: 192px;
+  width: 360px;
+  border: 1px solid #d7dfe9;
+  border-radius: 4px;
+}
+.icon {
+  height: 44px;
+  width: 44px;
+  border-radius: 4px;
+}
